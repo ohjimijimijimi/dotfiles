@@ -1,0 +1,2 @@
+# goldenboy-init
+Init OSX 
