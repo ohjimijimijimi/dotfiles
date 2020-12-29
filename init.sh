@@ -14,6 +14,8 @@ brew install hub
 brew install rsync 
 brew install jq
 brew install tor
+brew install mackup
+brew install mc
 
 brew tap homebrew/cask
 
@@ -27,6 +29,7 @@ brew install --cask cloudapp
 brew install --cask postman
 brew install --cask github
 brew install --cask ngrok
+brew install --cask fork
 
 brew install --cask nordvpn
 brew install --cask 1password
