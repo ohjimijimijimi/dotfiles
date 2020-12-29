@@ -11,7 +11,6 @@ brew install bash
 brew install circleci
 brew install ctags
 brew install hub 
-brew install nvm
 brew install rsync 
 brew install jq
 brew install tor
@@ -53,6 +52,9 @@ brew install --cask brave-browser
 brew install --cask tor-browser
 
 brew install --cask supercollider
+
+# node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 
 # terminal
 ## ohmyzsh
