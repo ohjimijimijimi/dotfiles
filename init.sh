@@ -17,6 +17,9 @@ brew install tor
 brew install mackup
 brew install mc
 
+brew tap phrase/brewed
+brew install phrase
+
 brew tap homebrew/cask
 
 brew install --cask docker
