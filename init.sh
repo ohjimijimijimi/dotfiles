@@ -61,6 +61,8 @@ brew install --cask supercollider
 
 # node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+## yarn
+npm install -g yarn
 
 # terminal
 ## ohmyzsh
