@@ -16,6 +16,7 @@ brew install jq
 brew install tor
 brew install mackup
 brew install mc
+brew install ossp-uuid
 
 brew tap phrase/brewed
 brew install phrase
